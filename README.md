@@ -1,2 +1,0 @@
-# FP Grafkom Kel7
- 
