@@ -7,6 +7,7 @@ Probuilder
 ### Colors and Textures - Material
 
 Path: ~\Computer Setup\Assets\Materials
+
 Path: ~\Computer Setup\Assets\images
 
 ### Imported Files (Textures, models, etc.)
@@ -14,4 +15,5 @@ Path: ~\Computer Setup\Assets\images
 Source: `polyhaven.com`
 
 Path: ~\Computer Setup\Assets\Textures
+
 Path: ~\Computer Setup\Assets\images
